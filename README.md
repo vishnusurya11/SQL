@@ -5,8 +5,10 @@
   mysql -u root -p cloudera
   ```
   Logging in as `root` gives us ability to create databases in Mysql.
-  
- 
+- To display all the available databases use the following command.
+  ```
+  SHOW DATABSES;
+  ```
 - To create a database in MySQL use the following command.
   ```
   CREATE DATABASE employees;
