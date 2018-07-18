@@ -29,14 +29,14 @@
 - To insert values into the table we use `INSERT INTO` Command.
   ```
   INSERT INTO details VALUES
-  (1, 'Alpha', 'Big Data', 2000),
-  (2, 'Bravo', 'Sales', 1000),
-  (3, 'Charlie', 'HR', 2500),
-  (4, 'Delta', 'Big Data', 3000),
-  (5, 'Echo', 'Big Data', 5000),
-  (6, 'Foxtrot', 'HR', 4500),
-  (7, 'Golf', 'HR', 1500),
-  (8, 'Hotel', 'sales', 1750),
-  (9, 'India', 'Recruiter', 2250),
-  (10, 'Juliett', 'Big Data', 2100);  
+  (1, 'Golf', 'Big Data', 2000),
+  (2, 'Delta', 'Sales', 1000),
+  (3, 'Hotel', 'HR', 2500),
+  (4, 'India', 'Big Data', 3000),
+  (5, 'Juliett', 'Big Data', 5000),
+  (6, 'Echo', 'HR', 4500),
+  (7, 'Alpha', 'HR', 1500),
+  (8, 'Charlie', 'sales', 1750),
+  (9, 'Bravo', 'Recruiter', 2250),
+  (10, 'Foxtrot', 'Big Data', 2100);  
   ```
