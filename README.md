@@ -26,3 +26,4 @@
   ```
   DESCRIBE details;
   ```
+  > DESCRIBE details;
