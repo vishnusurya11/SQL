@@ -26,4 +26,17 @@
   ```
   DESCRIBE details;
   ```
-  > DESCRIBE details;
+- To insert values into the table we use `INSERT INTO` Command.
+  ```
+  INSERT INTO details VALUES
+  (1, 'Alpha', 'Big Data', 2000),
+  (2, 'Bravo', 'Sales', 1000),
+  (3, 'Charlie', 'HR', 2500),
+  (4, 'Delta', 'Big Data', 3000),
+  (5, 'Echo', 'Big Data', 5000),
+  (6, 'Foxtrot', 'HR', 4500),
+  (7, 'Golf', 'HR', 1500),
+  (8, 'Hotel', 'sales', 1750),
+  (9, 'India', 'Recruiter', 2250),
+  (10, 'Juliett', 'Big Data', 2100);  
+  ```
