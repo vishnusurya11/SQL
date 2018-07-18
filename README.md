@@ -18,3 +18,11 @@
   USE employees;
   SHOW TABLES;
   ```
+- To create a tables we use the follwoing command.
+  ```
+  CREATE TABLE details(id INT, name VARCHAR(20), dept VARCHAR(20), salary INT);
+  ```
+- To display the format of a table use `DESCRIBE` command.
+  ```
+  DESCRIBE details;
+  ```
