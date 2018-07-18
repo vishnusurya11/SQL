@@ -8,6 +8,6 @@
   
  
  - To create a database in MySQL use the following command.
-  ```
-  CREATE DATABASE employees;
-  ```
+   ```
+   CREATE DATABASE employees;
+   ```
